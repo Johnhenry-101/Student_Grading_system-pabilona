@@ -1,0 +1,16 @@
+{
+    "name": "pabilona/gs",
+    "description": "student grading system",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pabilona\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pabilona"
+        }
+    ],
+    "require": {}
+}
